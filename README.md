@@ -70,14 +70,14 @@ Maksymilian Raupuk <br>
 
 
 
-Ashley Heady - History 
+Ashley Heady  
 
 
 <html>
 
 <head>
 
-<title>Baseball Bonanza Products</title>
+<title>Baseball  Products</title>
 
 <h1 align="center"><font face="Georgia">Billy and Billie's Baseball Bonanza </font></h1>
 <i> <p align="center"> Bringing you the best in the business so you can be the best on the field </p> </i>
@@ -112,7 +112,7 @@ Ashley Heady - History
 <body>In 1985, our founders, Billy and Bille had a vision to create a top quality brand offering the very best in baseball products and services. Fueled by a love for the sport and a dedication to customer service, B&B's opened its doors on July 9, 1985. Selling only bats and gloves, Billy and Billie quickly grew their business to hire four employees by the end of 1985. Since then, B&B's has revolutionized the baseball product industry. B&B's is proud to be the recipients of several customer service awards, as well as the Best Place to Work in Indiana award in 2010. B&B established these three core values that we still hold to today:
 
 <ol>
-<li>Premier Customer Service
+<li>Premier Customer Service! 
 <li>Top Quality Products
 <li>Commitment to Constant Improvement
 </ol>
